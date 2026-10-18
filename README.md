@@ -1,98 +1,141 @@
 
 <div align="center">
 
-# Hi, I'm Maliksha Pawani 👋
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:071A12,50:123C2D,100:36C98F&height=210&section=header&text=MALIKSHA%20PAWANI&fontSize=42&fontColor=E9FFF4&fontAlignY=40&desc=CODE%20%2F%20CREATE%20%2F%20GROW&descSize=15&descAlignY=65&descColor=C3F5DC" width="100%" alt="Maliksha Pawani - Code, Create, Grow"/>
 
-### Software Engineering Undergraduate | Aspiring Software Developer
+<br/>
 
-Building practical solutions through software development, AI, and creative design.
+### SOFTWARE ENGINEERING · AI · CREATIVE TECHNOLOGY
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/malikshapawani)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+*Turning ideas into thoughtful digital experiences.*
+
+[GitHub](https://github.com/malikshapawani) ·
+[Projects](https://github.com/malikshapawani?tab=repositories) ·
+[LinkedIn](https://www.linkedin.com/)
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+<table>
+<tr>
+<td width="60%" valign="top">
 
-- 🎓 Software Engineering undergraduate at SLTC Research University
-- 💻 Interested in software development and AI-powered applications
-- 🎨 Exploring UI/UX design using Figma
-- 🌱 Always learning new technologies and improving my skills
-- 🤝 Open to collaboration, internships, and learning opportunities
+### `01` / THE PERSON
 
----
+I'm Maliksha Pawani, a Software Engineering undergraduate at SLTC Research University.
 
-## 🛠️ Tech Stack
+I enjoy exploring the intersection of software development, intelligent applications, and user-focused design.
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+- **Building:** Practical software projects
+- **Exploring:** AI and machine learning
+- **Designing:** UI/UX with Figma
+- **Growing:** One project at a time
 
-### Frameworks & Tools
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+</td>
+<td width="40%" valign="top">
 
----
+### `02` / CURRENT MODE
 
-## 🚀 Featured Projects
+```text
+> status: learning
+> mindset: curious
+> focus: building
+> creativity: enabled
+> next_level: always
+```
 
-### 🌿 Greenhouse Project
-A smart greenhouse project focused on technology-assisted monitoring and control.
+**Open to**
+- Software engineering internships
+- Collaborative projects
+- New learning opportunities
 
-[View Repository](https://github.com/malikshapawani/greenhouse-project)
-
-### 📄 SkillMatch AI — Smart CV Analyzer
-A CV analysis application designed to help users understand skill gaps and improve their career readiness.
-
-[View Repository](https://github.com/malikshapawani/skillmatch-ai)
-
-### 🏥 SmartCare AI — Appointment No-Show Prediction
-A machine learning project that predicts the likelihood of missed medical appointments.
-
-[View Repository](https://github.com/malikshapawani)
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Statistics
+## `03` / My Toolkit
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=malikshapawani&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+**LANGUAGES**
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikshapawani&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark" alt="Python, Java, JavaScript, HTML and CSS"/>
 
-<img width="95%" src="https://streak-stats.demolab.com?user=malikshapawani&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+**DEVELOPMENT**
 
-</div>
+<img src="https://skillicons.dev/icons?i=flutter,firebase,git,github,vscode&theme=dark" alt="Flutter, Firebase, Git, GitHub and VS Code"/>
 
----
+**DATA · DESIGN · AI**
 
-## 🐍 Contribution Activity
-
-<div align="center">
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=malikshapawani&theme=tokyo-night&hide_border=true)
+<img src="https://skillicons.dev/icons?i=figma,sklearn,tensorflow&theme=dark" alt="Figma, Scikit-learn and TensorFlow"/>
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## `04` / Selected Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌱 Greenhouse Project
+
+A technology-driven project exploring smart greenhouse monitoring and control.
+
+[Explore repository ↗](https://github.com/malikshapawani/greenhouse-project)
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ SkillMatch AI
+
+A CV analysis application that helps job seekers explore skills, identify gaps, and improve career readiness.
+
+[Explore repository ↗](https://github.com/malikshapawani/skillmatch-ai)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+**More experiments, ideas, and projects**
+
+[Browse all repositories →](https://github.com/malikshapawani?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+---
+
+## `05` / GitHub Observatory
 
 <div align="center">
 
-I'm always happy to connect, learn, and collaborate!
+<img src="https://github-readme-stats.vercel.app/api?username=malikshapawani&show_icons=true&hide_border=true&bg_color=071A12&title_color=55D6A0&text_color=D5EDE0&icon_color=55D6A0&rank_icon=github" width="49%" alt="GitHub profile statistics"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikshapawani&layout=compact&hide_border=true&bg_color=071A12&title_color=55D6A0&text_color=D5EDE0" width="49%" alt="Most used programming languages"/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/malikshapawani)
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=malikshapawani&bg_color=071A12&color=D5EDE0&line=36C98F&point=E9FFF4&area=true&hide_border=true&custom_title=THE%20BUILDING%20TIMELINE" width="100%" alt="GitHub contribution activity graph"/>
 
 </div>
 
+---
+
+## `06` / A Note to the Future
+
+> Great software begins with curiosity, grows through experimentation, and improves with every iteration.
+
+<div align="center">
+
+**LEARN SOMETHING. BUILD SOMETHING. REPEAT.**
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36C98F,100:071A12&height=65&section=footer" width="100%" alt="Emerald footer"/>
+
+<sub>Designed with curiosity by Maliksha Pawani · 2026</sub>
+
+</div>
