@@ -1,110 +1,87 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:071A12,50:123C2D,100:36C98F&height=210&section=header&text=MALIKSHA%20PAWANI&fontSize=42&fontColor=E9FFF4&fontAlignY=40&desc=CODE%20%2F%20CREATE%20%2F%20GROW&descSize=15&descAlignY=65&descColor=C3F5DC" width="100%" alt="Maliksha Pawani - Code, Create, Grow"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:09090F,50:35146B,100:00E5FF&text=MALIKSHA.EXE&fontColor=FFFFFF&fontSize=48&fontAlignY=45&desc=SOFTWARE%20ENGINEERING%20%2F%20CREATIVE%20TECH&descAlignY=65&descSize=13" width="100%" alt="Maliksha EXE"/>
 
 <br/>
 
-### SOFTWARE ENGINEERING · AI · CREATIVE TECHNOLOGY
-
-*Turning ideas into thoughtful digital experiences.*
-
-[GitHub](https://github.com/malikshapawani) ·
-[Projects](https://github.com/malikshapawani?tab=repositories) ·
-[LinkedIn](https://www.linkedin.com/)
+[![GitHub](https://img.shields.io/badge/GITHUB-09090F?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/malikshapawani)
+[![Projects](https://img.shields.io/badge/PROJECTS-35146B?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/malikshapawani?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/)
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
-### `01` / THE PERSON
-
-I'm Maliksha Pawani, a Software Engineering undergraduate at SLTC Research University.
-
-I enjoy exploring the intersection of software development, intelligent applications, and user-focused design.
-
-- **Building:** Practical software projects
-- **Exploring:** AI and machine learning
-- **Designing:** UI/UX with Figma
-- **Growing:** One project at a time
-
-</td>
-<td width="40%" valign="top">
-
-### `02` / CURRENT MODE
+### `> WHO_AM_I.exe`
 
 ```text
-> status: learning
-> mindset: curious
-> focus: building
-> creativity: enabled
-> next_level: always
+INITIALIZING DEVELOPER PROFILE...
+
+NAME       : Maliksha Pawani
+ROLE       : Software Engineering Undergraduate
+UNIVERSITY : SLTC Research University
+INTERESTS  : Software Development | AI | UI/UX
+STATUS     : Learning, building & evolving
+
+SYSTEM MESSAGE:
+Turning ideas into functional digital experiences.
 ```
 
-**Open to**
-- Software engineering internships
-- Collaborative projects
-- New learning opportunities
-
-</td>
-</tr>
-</table>
-
----
-
-## `03` / My Toolkit
+### `> LOAD_SKILLS()`
 
 <div align="center">
 
-**LANGUAGES**
-
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark" alt="Python, Java, JavaScript, HTML and CSS"/>
-
-**DEVELOPMENT**
-
-<img src="https://skillicons.dev/icons?i=flutter,firebase,git,github,vscode&theme=dark" alt="Flutter, Firebase, Git, GitHub and VS Code"/>
-
-**DATA · DESIGN · AI**
-
-<img src="https://skillicons.dev/icons?i=figma,sklearn,tensorflow&theme=dark" alt="Figma, Scikit-learn and TensorFlow"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,flutter,firebase,git,github,figma,vscode&theme=dark" alt="Development skills"/>
 
 </div>
 
+**Core interests**
+
+`Software Engineering` · `Artificial Intelligence` · `Machine Learning` · `UI/UX Design`
+
 ---
 
-## `04` / Selected Work
+### `> EXECUTE_PROJECTS()`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌱 Greenhouse Project
+**01 / GREENHOUSE**
 
-A technology-driven project exploring smart greenhouse monitoring and control.
+A software project focused on smart greenhouse monitoring and control.
 
-[Explore repository ↗](https://github.com/malikshapawani/greenhouse-project)
+[ACCESS REPOSITORY ↗](https://github.com/malikshapawani/greenhouse-project)
 
 </td>
 <td width="50%" valign="top">
 
-### ◈ SkillMatch AI
+**02 / SKILLMATCH AI**
 
-A CV analysis application that helps job seekers explore skills, identify gaps, and improve career readiness.
+A smart CV analyzer designed to explore skill gaps and career readiness.
 
-[Explore repository ↗](https://github.com/malikshapawani/skillmatch-ai)
+[ACCESS REPOSITORY ↗](https://github.com/malikshapawani/skillmatch-ai)
 
 </td>
 </tr>
 <tr>
-<td colspan="2" align="center">
+<td width="50%" valign="top">
 
-**More experiments, ideas, and projects**
+**03 / SMARTCARE AI**
 
-[Browse all repositories →](https://github.com/malikshapawani?tab=repositories)
+Machine learning for predicting missed healthcare appointments.
+
+[EXPLORE PROFILE ↗](https://github.com/malikshapawani?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+**04 / MORE LOADING...**
+
+New ideas, experiments, and projects are part of the journey.
+
+[VIEW ALL PROJECTS ↗](https://github.com/malikshapawani?tab=repositories)
 
 </td>
 </tr>
@@ -112,30 +89,28 @@ A CV analysis application that helps job seekers explore skills, identify gaps, 
 
 ---
 
-## `05` / GitHub Observatory
+### `> SYSTEM_ANALYTICS()`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=malikshapawani&show_icons=true&hide_border=true&bg_color=071A12&title_color=55D6A0&text_color=D5EDE0&icon_color=55D6A0&rank_icon=github" width="49%" alt="GitHub profile statistics"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikshapawani&layout=compact&hide_border=true&bg_color=071A12&title_color=55D6A0&text_color=D5EDE0" width="49%" alt="Most used programming languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=malikshapawani&show_icons=true&hide_border=true&bg_color=09090F&title_color=BD93F9&text_color=E6E6FA&icon_color=00E5FF" width="49%" alt="GitHub statistics"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikshapawani&layout=compact&hide_border=true&bg_color=09090F&title_color=BD93F9&text_color=E6E6FA" width="49%" alt="Top programming languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=malikshapawani&bg_color=071A12&color=D5EDE0&line=36C98F&point=E9FFF4&area=true&hide_border=true&custom_title=THE%20BUILDING%20TIMELINE" width="100%" alt="GitHub contribution activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=malikshapawani&bg_color=09090F&color=E6E6FA&line=BD93F9&point=00E5FF&area=true&hide_border=true" width="100%" alt="Contribution activity"/>
 
 </div>
 
 ---
 
-## `06` / A Note to the Future
-
-> Great software begins with curiosity, grows through experimentation, and improves with every iteration.
-
 <div align="center">
 
-**LEARN SOMETHING. BUILD SOMETHING. REPEAT.**
+```text
+[ END OF TRANSMISSION ]
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36C98F,100:071A12&height=65&section=footer" width="100%" alt="Emerald footer"/>
+KEEP LEARNING  //  KEEP BUILDING  //  KEEP EVOLVING
+```
 
-<sub>Designed with curiosity by Maliksha Pawani · 2026</sub>
+<sub>Maliksha Pawani · Software Engineering · 2026</sub>
 
 </div>
